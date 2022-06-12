@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//yes
 namespace 教学管理信息系统_V2._0
 {
     public partial class FormAdmin : Form
